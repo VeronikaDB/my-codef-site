@@ -2,6 +2,6 @@
 title: "CV"
 date: 2022-07-12T14:58:31+02:00
 draft: true
-weight: 1
+weight: 2
 ---
 
