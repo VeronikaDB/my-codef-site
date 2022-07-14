@@ -5,3 +5,6 @@ draft: true
 weight: 2
 ---
 
+{{< embed-pdf url="/CV.pdf" hidePaginator="true" >}}
+
+{{< download_button "/CV.pdf" "Download my CV" >}}
